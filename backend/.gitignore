@@ -1,0 +1,74 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+.env
+
+# =========================
+# Flask
+# =========================
+instance/
+uploads/
+logs/
+
+# =========================
+# Databases
+# =========================
+*.sqlite3
+*.db
+*.sql
+
+# =========================
+# Machine Learning Models
+# =========================
+*.keras
+*.h5
+*.pb
+*.tflite
+models/
+
+# =========================
+# Datasets
+# =========================
+data/
+dataset/
+datasets/
+*.csv
+*.zip
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Debug & Experimental Files
+# =========================
+debug_model.py
+debug_sql_runner.py
+diagnose_load.py
+diagnose_model.py
+fix_model.py
+app_fixed.py
+
+# =========================
+# Tests (optional)
+# =========================
+tests/
+test_*.py
+
+# =========================
+# Batch / Misc
+# =========================
+run_server.bat
