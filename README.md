@@ -7,27 +7,27 @@ A smart agriculture web application that helps farmers detect tomato leaf diseas
 ## 📸 Screenshots
 
 **Homepage**  
-![Homepage](screenshots/homepage.png)  
+![Homepage](images-tomato-care/homepage.png)  
 *Landing page with drag-and-drop upload interface*
 
 **Image Upload**  
-![Upload](screenshots/upload.png)  
+![Upload](images-tomato-care/upload.png)  
 *Tomato leaf image upload with real-time preview*
 
 **Disease Detection Results**  
-![Detection](screenshots/detection.png)  
+![Detection](images-tomato-care/detection.png)  
 *AI-powered disease identification with confidence score*
 
 **Treatment Input Form**  
-![Input Form](screenshots/input-form.png)  
+![Input Form](images-tomato-care/input-form.png)  
 *User inputs for severity, budget, and farming type*
 
 **Treatment Recommendations**  
-![Recommendations](screenshots/recommendations.png)  
+![Recommendations](images-tomato-care/recommendations.png)  
 *Personalized treatment suggestions based on user constraints*
 
 **News Section**  
-![News](screenshots/news.png)  
+![News](images-tomato-care/news.png)  
 *Live agricultural news updates*
 
 ---
