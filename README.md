@@ -7,28 +7,38 @@ A smart agriculture web application that helps farmers detect tomato leaf diseas
 ## 📸 Screenshots
 
 **Homepage**  
-![Homepage](images-tomato-care/homepage.png)  
-*Landing page with drag-and-drop upload interface*
+![Homepage](images-tomato-care/landing-page.png)  
+*Landing page of Tomato-Care*
 
-**Image Upload**  
-![Upload](images-tomato-care/upload.png)  
-*Tomato leaf image upload with real-time preview*
+**Signup Page**
+![Signup](images-tomato-care/signup.png)  
+*User registration interface for creating a new account with basic details*
 
-**Disease Detection Results**  
-![Detection](images-tomato-care/detection.png)  
-*AI-powered disease identification with confidence score*
+**Signin Page**
+![Signin](images-tomato-care/signin.png)  
+*login interface for existing users to access the Tomato Care platform*
 
-**Treatment Input Form**  
-![Input Form](images-tomato-care/input-form.png)  
-*User inputs for severity, budget, and farming type*
+**Application Workflow**
+![Workflow](images-tomato-care/workflow.png)  
 
-**Treatment Recommendations**  
-![Recommendations](images-tomato-care/recommendations.png)  
-*Personalized treatment suggestions based on user constraints*
+**Dashboard**  
+![Upload](images-tomato-care/dashboard.png)  
+*User dashboard with tomato leaf image upload and analysis functionality*
+
+**Discussion Forum**  
+![Discussion-Forum](images-tomato-care/discussion-forum.png)  
+*Community discussion forum where farmers can share their experiences and learn from each other*
+
+**Discussion-Start**  
+![Discussion-Start](images-tomato-care/discussion-start.png)  
+*User inputs name, category of the titile, name of the title and description*
+
+**Discussion-Post**  
+![Discussion-Post](images-tomato-care/discussion-posted.png)  
 
 **News Section**  
 ![News](images-tomato-care/news.png)  
-*Live agricultural news updates*
+*Live agricultural news updates through GNews*
 
 ---
 
